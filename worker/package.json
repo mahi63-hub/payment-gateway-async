@@ -12,6 +12,7 @@
   "dependencies": {
     "bull": "^4.16.5",
     "dotenv": "^17.2.3",
-    "ioredis": "^5.9.1"
+    "ioredis": "^5.9.1",
+    "pg": "^8.16.3"
   }
 }
